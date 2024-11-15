@@ -9,7 +9,7 @@ using System.Windows;
 
 namespace TgBotTop
 {
-    public class ApiSeves
+    internal class ApiSeves
     {
         public static async Task<string> Get(string Url)
         {
